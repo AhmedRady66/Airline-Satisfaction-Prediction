@@ -5,7 +5,7 @@ This project predicts airline passenger satisfaction levels based on survey data
 ---
 
 ## 🎥 Demo  
-
+https://github.com/user-attachments/assets/6df145ab-30d3-4f64-99df-43ed071d5a60
 
 ---
 
