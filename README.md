@@ -49,3 +49,11 @@ We tested multiple supervised learning algorithms:
 
 The dataset is from the **US Airline Passenger Satisfaction Survey**.  
 [Download Dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+
+## 👨‍💻 Collaborators  
+
+- [Ahmed Rady](https://github.com/AhmedRady66)  
+- [Omnia waleed](https://github.com/Omniawaleed)  
+- [Youssef Nader](https://github.com/YoussefNader12)  
+ 
+
